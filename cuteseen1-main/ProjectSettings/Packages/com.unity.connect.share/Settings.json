@@ -6,7 +6,7 @@
             {
                 "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
                 "key": "buildOutputDirList",
-                "value": "{\"m_Value\":\"C:/Users/sirichai/Desktop/test;;;;;;;;;\"}"
+                "value": "{\"m_Value\":\"C:/Users/sirichai/Desktop/finish;C:/Users/sirichai/Desktop/test;;;;;;;;\"}"
             },
             {
                 "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
